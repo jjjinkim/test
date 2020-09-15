@@ -1,2 +1,2 @@
-http://www.qblick.com/work.phisdf
 print("hello world");
+print("Tell your World");
